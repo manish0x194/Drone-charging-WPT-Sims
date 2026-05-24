@@ -13,4 +13,5 @@ Simulation for IP
     Output power	20–30 W
 
 Week 1: 18th may - 25th may complete phase one atleast sim
+new ClassE inverter is coupled with a coil and is showing good efficiency across R1 resistor above 90% with smooth sinusoidal voltage and current drawing around Pavg 5.3W where the voltage source provides a power of 5.8W currently the inverter Q is balanced at 3.01 (wL1/Rl) = 50/16.6 = 2 whereas Q2 of secondary side is at 8.32
 
