@@ -1,15 +1,66 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\Gagan\Desktop\summer term\Drone-charging-WPT-Sims\rectifier.net
-Start Time: Thu May 28 13:22:20 2026
+Start Time: Thu May 28 14:14:03 2026
 solver = Normal
 Maximum thread count: 14
 tnom = 27
 temp = 27
 method = trap
+WARNING: Node nc_01 is floating.
+WARNING: Node nc_02 is floating.
+WARNING: Node nc_03 is floating.
+WARNING: Node nc_04 is floating.
+
 .OP point found by inspection.
-Total elapsed time: 1.360 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.1243925837009946e-04 to 1.1243925837010046e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.1243925841505849e-04 to 1.1243925841505949e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.1243925841506951e-04 to 1.1243925841507051e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376325013e-04 to 1.2846006376325114e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376352818e-04 to 1.2846006376352918e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376356320e-04 to 1.2846006376356420e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376359922e-04 to 1.2846006376360022e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376454624e-04 to 1.2846006376454724e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376507333e-04 to 1.2846006376507433e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376509439e-04 to 1.2846006376509539e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376509639e-04 to 1.2846006376509740e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376518443e-04 to 1.2846006376518543e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006376519847e-04 to 1.2846006376519947e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006381296349e-04 to 1.2846006381296449e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006381353264e-04 to 1.2846006381353364e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006381369570e-04 to 1.2846006381369670e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006381369871e-04 to 1.2846006381369971e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006381370372e-04 to 1.2846006381370473e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.2846006381370774e-04 to 1.2846006381370874e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.3446695328403003e-04 to 1.3446695328403103e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4047326960193540e-04 to 1.4047326960193641e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4047326960713643e-04 to 1.4047326960713743e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4047326960717446e-04 to 1.4047326960717546e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4297593017595294e-04 to 1.4297593017595394e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4748024209324881e-04 to 1.4748024209324982e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4748024209324982e-04 to 1.4748024209325082e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.4748024209325082e-04 to 1.4748024209325182e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5198474487122693e-04 to 1.5198474487122793e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5198474518230998e-04 to 1.5198474518231099e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5198474518232503e-04 to 1.5198474518232603e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5198474518233205e-04 to 1.5198474518233305e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5198474518362618e-04 to 1.5198474518362718e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5298536057317306e-04 to 1.5298536057317406e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5298536057342110e-04 to 1.5298536057342210e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140471647748e-04 to 1.5949140471647848e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140471682662e-04 to 1.5949140471682762e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140471682762e-04 to 1.5949140471682862e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140507872064e-04 to 1.5949140507872165e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140507875667e-04 to 1.5949140507875767e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140507875767e-04 to 1.5949140507875867e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.5949140507875967e-04 to 1.5949140507876068e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.7500360877077534e-04 to 1.7500360877077635e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.9001549196722884e-04 to 1.9001549196722984e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.9001549196772185e-04 to 1.9001549196772286e-04 seconds.
+Warning: Simulation tolerance relaxed to achieve convergence from 1.9001549196772286e-04 to 1.9001549196772386e-04 seconds.
+Total elapsed time: 2.485 seconds.
 
 Files loaded:
 C:\Users\Gagan\Desktop\summer term\Drone-charging-WPT-Sims\rectifier.net
 C:\Users\Gagan\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\Gagan\AppData\Local\LTspice\lib\cmp\standard.mos
 
